@@ -1,0 +1,22 @@
+Music is VFR 要表記
+http://musicisvfr.com/free/license.html
+[play_SE1]
+
+甘茶の音楽工房 不要
+ http://amachamusic.chagasi.com/
+[BGM_start]
+
+小森平　不要
+http://taira-komori.jpn.org/game01.html
+[button]
+[circle]
+[no]
+
+フリー音楽素材 H/MIX GALLERY 要表記
+秋山裕和
+http://www.hmix.net/
+[ok]
+
+魔王魂　要表記
+http://maoudamashii.jokersounds.com/music_rule.html
+[play_BGM]
